@@ -1,0 +1,15 @@
+1. Item Added to cart
+
+2. Adding a billing address
+
+ (failed checkout due to not having valid stripe keys.)
+
+3. Payment
+
+ (preprocessing, processing, packaging etc)
+
+4. Being delivered
+
+5. Recieved
+
+6. Refunds
